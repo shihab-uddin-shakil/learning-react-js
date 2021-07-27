@@ -1,0 +1,10 @@
+.form {
+    position: relative;
+    margin: 5px;
+    padding: 5px;
+    background-color: #eee;
+    border: 1px solid #000;
+    width: 200px;
+    height: 100%;
+    border-radius: 5px;
+}
